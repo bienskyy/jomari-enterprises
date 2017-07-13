@@ -96,26 +96,20 @@
 }
 
 /* Carousel Item Background Images */
-.carousel-slider .carousel-item-eight {
-    background: url(../../../assets/pages/img/frontend-slider/bg9.jpg);
+.carousel-slider .carousel-item-one {
+    background: url(../../../assets/onepage/img/slider/pexels-photo-490973.jpg);
     background-size: cover;
     background-position: center center;
 }
 
-.carousel-slider .carousel-item-nine {
-    background: url(../../../assets/pages/img/frontend-slider/bg1.jpg);
+.carousel-slider .carousel-item-two {
+    background: url(../../../assets/onepage/img/slider/slide2.jpg);
     background-size: cover;
     background-position: center center;
 }
 
-.carousel-slider .carousel-item-ten {
-    background: url(../../../assets/pages/img/frontend-slider/bg2.jpg);
-    background-size: cover;
-    background-position: center center;
-}
-
-.carousel-slider .carousel-item-eleven {
-    background: url(../../../assets/pages/img/frontend-slider/bg3.jpg);
+.carousel-slider .carousel-item-three {
+    background: url(../../../assets/onepage/img/slider/workers-construction-site-hardhats-38293.jpg);
     background-size: cover;
     background-position: center center;
 }
